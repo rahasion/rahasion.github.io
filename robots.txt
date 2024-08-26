@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rahasion.github.io/sitemap.html.gz
+Sitemap: https://rahasion.github.io/app/sitemap.html.gz
+Sitemap: https://rahasion.github.io/assets/sitemap.html.gz
+Sitemap: https://rahasion.github.io/css/sitemap.html.gz
+Sitemap: https://rahasion.github.io/includes/sitemap.html.gz
+Sitemap: https://rahasion.github.io/item/sitemap.html.gz
+Sitemap: https://rahasion.github.io/src/sitemap.html.gz
